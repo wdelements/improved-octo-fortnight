@@ -1,0 +1,105 @@
+
+
+H1 {
+color: #grey;
+font-family: arial;
+font-size: 60px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 1px;
+
+
+ text-align: center;
+
+
+
+
+}
+
+body {
+
+font-family: arial;
+background-color: #white;
+color: #grey;
+font-size: 25px;
+
+ text-align: center;
+}
+
+
+
+
+
+
+
+
+H2 {
+color: #grey;
+font-family: arial;
+font-size: 10px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 1px;
+
+
+ text-align: center;
+
+
+
+
+}
+
+body {
+
+font-family: arial;
+background-color: #white;
+color: #grey;
+font-size: 10px;
+
+ text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/* unvisited link */
+a:link {
+    color: #grey;
+}
+
+/* visited link */
+a:visited {
+    color: #grey;
+}
+
+/* mouse over link */
+a:hover {
+    color: #blue;
+}
+
+/* selected link */
+a:active {
+    color: #black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
